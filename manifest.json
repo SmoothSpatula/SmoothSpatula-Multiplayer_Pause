@@ -1,0 +1,11 @@
+﻿{
+	"name": "Multiplayer_Pause",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/SmoothSpatula",
+	"description": "Pause in multiplayer. Default is P, change the key in the ImGui menu.",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.1.23",
+		"ReturnsAPI-ReturnsAPI-0.1.55",
+		"SmoothSpatula-TomlHelper-1.1.1"
+	]
+}
